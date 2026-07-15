@@ -1,6 +1,6 @@
-# 💰 Expense Tracker Pro
+#  Expense Tracker Pro
 
-A personal finance management web application built using Python and Streamlit.
+Developed a personal finance management web application using Python and Streamlit with secure user authentication, expense/income tracking, SQLite database integration, and interactive visualization dashboards.
 
 ## 🚀 Features
 
