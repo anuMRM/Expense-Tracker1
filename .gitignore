@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Database
+expense.db
+
+# Environment
+venv/
+.env
+
+# Mac
+.DS_Store
