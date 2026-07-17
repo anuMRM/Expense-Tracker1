@@ -35,6 +35,4 @@ The application provides:
 - Category-wise expense charts
 - Spending trends
 
-## ⚙️ Installation
 
-Clone repository:
